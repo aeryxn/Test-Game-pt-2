@@ -1,0 +1,8 @@
+html {
+	display: grid;
+	place-items: center;
+}
+
+canvas {
+	background-color: aqua;
+}
